@@ -52,20 +52,14 @@ This project was developed as part of the **Design and Innovation Project** by a
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ship-navigation.git
-   cd ship-navigation
+   git clone https://github.com/Aaryan126/Ship-Navigation-System.git
+   cd Ship-Navigation-System
    ```
 
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Run the application:
-   ```bash
-   python main.py
-   ```
-
 ---
 
 ## **Usage**
@@ -87,24 +81,18 @@ This project was developed as part of the **Design and Innovation Project** by a
 ## **Team Members**
 This project was a collaborative effort by eight team members, with contributions spanning algorithm development, GUI design, testing, and documentation.
 
-- **Your Name**
-- **Team Member 2**
-- **Team Member 3**
-- **Team Member 4**
-- **Team Member 5**
-- **Team Member 6**
-- **Team Member 7**
-- **Team Member 8**
-
+- Aaryan Kandiah
+- Chen LongTing
+- Liu Zenan
+- Tan Yue Jun Darren
+- Chong Wen Ci
+- Zhang Yitian
+- Shi Wen
+- Nixon Edward Winata
 ---
 
 ## **Acknowledgments**
-We extend our gratitude to our project mentors and advisors for their guidance and support throughout the development of this project. Special thanks to [any specific individuals or organizations].
-
----
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+We extend our gratitude to our project mentors and advisors for their guidance and support throughout the development of this project. Special thanks to Huang Erdong and Professor Jiang Xudong.
 
 ---
 
@@ -117,40 +105,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## **Contact**
 For more information or questions about this project, please contact:
-- **Your Name**: your.email@example.com
-- **GitHub Repository**: [link to repository]
-
-
-
-# AutomaticNavigation_Algorithms
-
-This is the Design and Innovation Project 
-
-## How to Use
-
-### 1. Clone this repo.
-    git clone https://github.com/Aaryan126/Ship-Navigation-System.git
-
-### 2. Install the required libraries.
-    pip install -r requirements.txt
-
-### 3. Construct maps/ obstacles and optimise the algos.
-
-## Algorithms
-
-Added on 2024-08-21 for DIP, by Huang Erdong (erdong.huang@ntu.edu.sg)
-
-These codes were developed an open-source project on GitHub: https://github.com/AtsushiSakai/PythonRobotics
-Feel free to explore this interesting GitHub repo which contain many algorithms related to your DIP. 
-
-### - a_star.py
-    code for A* algorithm (minimally modified from the original version in the abovementioned GitHub repo)
-### - dynamic_window_approach_paper.py
-    code for DWA
-    The abovementioned GitHub repo modify the original DWA method (by the original DWA paper), but turns out to have worse performance.
-    I modified the open-source GitHub codes to follow the original DWA method proposed in the original DWA paper.
-### - dwa_astar_v4.py
-    code for integration of DWA and A*
-    Developed by myself. 
-    You'll need to modify the import statements (line 1~8) according to how you organize the Python files, before you can successfully run this script. 
-    Feel free to drop me an email if you can't figure out how to run this script. 
+- **Aaryan Kandiah**: aaryan001@ntu.edu.sg
+- **GitHub Repository**: https://github.com/Aaryan126/Ship-Navigation-System/
