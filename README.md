@@ -78,6 +78,18 @@ This project was developed as part of the **Design and Innovation Project** by a
 
 ---
 
+## **Example Videos**
+
+We have included two example videos to demonstrate the use and functionality of the algorithms:
+
+**Without Local Obstacles**: Demonstrates the ship navigating on the Singapore map without any local obstacles.
+
+**With Local Obstacles**: Shows the ship navigating on the Singapore map while dynamically avoiding local obstacles.
+
+These videos provide a clear understanding of how the algorithms work under different scenarios.
+
+---
+
 ## **Team Members**
 This project was a collaborative effort by eight team members, with contributions spanning algorithm development, GUI design, testing, and documentation.
 
