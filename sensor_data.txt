@@ -1,0 +1,4 @@
+Distance to Global Goal: 43.18
+Distance to Local Goal: 6.05
+X Coordinate: 50.73011673392112
+Y Coordinate: 29.284065139238365
